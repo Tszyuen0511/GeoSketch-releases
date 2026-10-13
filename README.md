@@ -8,7 +8,7 @@ Download **GeoSketch-Windows-vX.Y.Z.zip** from release assets, extract the entir
 
 Keep your projects and output outside the application folder. To update, close GeoSketch and extract the new complete package into a new folder.
 
-Use **About > Check for updates** for a manual version check.
+From v1.0.3, use **About > Check for updates > Download & install update > Install & restart**. Unsaved projects must be saved first. Updates install under your LocalAppData folder, keep the previous version, and switch the user launcher after startup verification. No administrator elevation is requested; managed-device policies still apply. Download and extract v1.0.3 manually once to get this installer.
 
 [User tutorial](https://tszyuen0511.github.io/soil-model-tutorial/)
 
